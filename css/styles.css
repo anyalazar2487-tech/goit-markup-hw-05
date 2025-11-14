@@ -610,16 +610,15 @@ body {
 
 
 .bottom-close {
-  border-radius: 4px;
+  border-radius: 50%;
   width: 24px;
   height: 24px;
   position: absolute;
   top: 24px;
   right: 24px;
-  border-radius: 100%;
-  fill: #e7e9fc;
+  fill: #2E2F42;
   stroke-width: 1px;
-  stroke: rgba(0, 0, 0, 0.1);
+  background-color: #E7E9FC;
 }
 
 
