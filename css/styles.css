@@ -554,6 +554,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #fff;
+    margin-bottom: 16px;
 }
 
 .footer-form {
@@ -571,10 +572,15 @@ body {
     width: 264px;
     height: 40px;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-    background-color: #2E2F42;
     padding: 8px 16px;
     margin: 0;
     box-sizing: border-box;
+    background-color: transparent;
+    font-size: 12px;
+    line-height: 2;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+
 
 }
 
@@ -584,7 +590,7 @@ body {
     font-size: 12px;
     line-height: 2;
     letter-spacing: 0.04em;
-    color: #fff;
+    color: #ffffff; 
 }
 
 .footer-button {
